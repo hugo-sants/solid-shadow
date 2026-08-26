@@ -1,0 +1,7 @@
+# Flathub applications
+
+com.discordapp.Discord
+com.getpostman.Postman
+com.mattjakeman.ExtensionManager
+io.github.jeffshee.Hidamari
+io.missioncenter.MissionCenter

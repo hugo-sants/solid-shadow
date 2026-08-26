@@ -1,0 +1,25 @@
+# Shell
+zsh
+eza
+fd-find
+fzf
+
+# Terminal / CLI customization
+btop
+cava
+cmatrix
+fastfetch
+tree
+
+# GNOME / desktop customization
+dconf
+gnome-backgrounds
+gnome-extensions-app
+gnome-font-viewer
+gnome-tweaks
+
+# Development environment
+neovim
+
+# Theme build dependency
+sassc
