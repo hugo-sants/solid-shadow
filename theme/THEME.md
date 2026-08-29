@@ -7,7 +7,7 @@
 | Cursor      | `Win11OSX`           |
 | Cursor Size | `32`                 |
 
-> [!INFO]
+> [!NOTE]
 > **Manual Installation**
 >
 > The GTK theme, icon theme, and cursor are **not installed automatically** by this repository.

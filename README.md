@@ -43,7 +43,7 @@ Personal Fedora GNOME dotfiles focused on desktop customization, shell configura
 
 Install the GNOME extensions:
 
-> [!INFO]
+> [!IMPORTANT]
 >
 > After running `make install-extensions`, you **must end your current GNOME session and log in again** for newly installed extensions to be loaded by GNOME Shell.
 
