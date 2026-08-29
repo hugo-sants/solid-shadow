@@ -41,6 +41,16 @@ Personal Fedora GNOME dotfiles focused on desktop customization, shell configura
 
 ## Installation
 
+Install the GNOME extensions:
+
+> [!IMPORTANT]
+>
+> After running `make install-extensions`, you **must end your current GNOME session and log in again** for newly installed extensions to be loaded by GNOME Shell.
+
+```bash
+make install-extensions
+```
+
 The default installation creates a backup and applies the tracked GNOME extension settings:
 
 ```bash
@@ -51,12 +61,6 @@ Create a manual backup:
 
 ```bash
 make backup
-```
-
-Install the GNOME extensions:
-
-```bash
-make install-extensions
 ```
 
 Apply the extension settings directly:
@@ -76,7 +80,6 @@ Install the Flatpak applications listed in `flatpak.txt`:
 ```bash
 make flatpak
 ```
-
 
 Run the uninstall routine:
 
